@@ -1,8 +1,8 @@
 # GestionDesComptesBancaires
 
-Auteur : ABOUBAKAR AHAMADA
-Date : 08/05/2020
-Lieu : Casablanca
+Auteur : Noureddine Taher
+Date : 15/04/2022
+Lieu : France
 Projet :
 Une application web de gestion des comptes bancaires en Java/ JEE et Spring.
 
