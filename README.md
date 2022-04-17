@@ -7,7 +7,7 @@
 Une application web de gestion des comptes bancaires en Java/ JEE et Spring.
 
 # Démo
-Pour voir une démo sur l'évolution de l'application en image, visitez la page wiki : https://github.com/NoureddineTaher/GestionDesComptesBancaires
+Pour voir une démo sur l'évolution de l'application en image, visitez la page wiki : https://github.com/NoureddineTaher/GestionDesComptesBancaires/wiki
 # Spécificités fonctionnelles :
 Chaque compte appaertient à un client.
 
