@@ -1,11 +1,11 @@
 /**
  * 
  */
-package com.aboubakar.dao;
+package com.noureddine.dao;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.aboubakar.entities.Client;
+import com.noureddine.entities.Client;
 
 /**
  * @author Aboubakar

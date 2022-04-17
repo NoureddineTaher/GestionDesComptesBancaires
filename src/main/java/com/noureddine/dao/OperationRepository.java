@@ -1,4 +1,4 @@
-package com.aboubakar.dao;
+package com.noureddine.dao;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
-import com.aboubakar.entities.Operation;
+import com.noureddine.entities.Operation;
 
 public interface OperationRepository extends JpaRepository<Operation, Long> {
 

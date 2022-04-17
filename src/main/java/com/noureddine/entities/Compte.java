@@ -1,4 +1,4 @@
-package com.aboubakar.entities;
+package com.noureddine.entities;
 
 import java.io.Serializable;
 import java.util.Collection;
@@ -14,7 +14,7 @@ import javax.persistence.ManyToOne;
 import javax.persistence.OneToMany;
 
 /**
- * @author Aboubakar
+ * @author Noureddine
  *
  */
 @Entity

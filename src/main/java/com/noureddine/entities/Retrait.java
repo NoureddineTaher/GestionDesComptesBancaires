@@ -1,4 +1,4 @@
-package com.aboubakar.entities;
+package com.noureddine.entities;
 
 import java.util.Date;
 
@@ -6,15 +6,15 @@ import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
 
 @Entity
-@DiscriminatorValue("V")
-public class Versement extends Operation{
+@DiscriminatorValue("R")
+public class Retrait extends Operation {
 
-	public Versement() {
+	public Retrait() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
 
-	public Versement(Date dateOperation, double montant, Compte compte) {
+	public Retrait(Date dateOperation, double montant, Compte compte) {
 		super(dateOperation, montant, compte);
 		// TODO Auto-generated constructor stub
 	}

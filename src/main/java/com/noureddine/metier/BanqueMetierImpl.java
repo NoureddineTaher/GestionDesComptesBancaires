@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aboubakar.metier;
+package com.noureddine.metier;
 
 import java.util.Date;
 import java.util.Optional;
@@ -13,16 +13,16 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.aboubakar.dao.CompteRepository;
-import com.aboubakar.dao.OperationRepository;
-import com.aboubakar.entities.Compte;
-import com.aboubakar.entities.CompteCourant;
-import com.aboubakar.entities.Operation;
-import com.aboubakar.entities.Retrait;
-import com.aboubakar.entities.Versement;
+import com.noureddine.dao.CompteRepository;
+import com.noureddine.dao.OperationRepository;
+import com.noureddine.entities.Compte;
+import com.noureddine.entities.CompteCourant;
+import com.noureddine.entities.Operation;
+import com.noureddine.entities.Retrait;
+import com.noureddine.entities.Versement;
 
 /**
- * @author Aboubakar
+ * @author Noureddine
  *
  */
 

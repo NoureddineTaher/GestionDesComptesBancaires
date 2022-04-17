@@ -1,4 +1,4 @@
-package com.aboubakar;
+package com.noureddine;
 
 import java.util.Date;
 
@@ -8,16 +8,16 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-import com.aboubakar.dao.ClientRepository;
-import com.aboubakar.dao.CompteRepository;
-import com.aboubakar.dao.OperationRepository;
-import com.aboubakar.entities.Client;
-import com.aboubakar.entities.Compte;
-import com.aboubakar.entities.CompteCourant;
-import com.aboubakar.entities.CompteEpargne;
-import com.aboubakar.entities.Retrait;
-import com.aboubakar.entities.Versement;
-import com.aboubakar.metier.IBanqueMetier;
+import com.noureddine.dao.ClientRepository;
+import com.noureddine.dao.CompteRepository;
+import com.noureddine.dao.OperationRepository;
+import com.noureddine.entities.Client;
+import com.noureddine.entities.Compte;
+import com.noureddine.entities.CompteCourant;
+import com.noureddine.entities.CompteEpargne;
+import com.noureddine.entities.Retrait;
+import com.noureddine.entities.Versement;
+import com.noureddine.metier.IBanqueMetier;
 
 @SpringBootApplication
 public class GestionDesComptesBancairesApplication implements CommandLineRunner {

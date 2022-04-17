@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aboubakar.entities;
+package com.noureddine.entities;
 
 import java.util.Date;
 

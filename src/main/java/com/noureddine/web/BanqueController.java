@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.aboubakar.web;
+package com.noureddine.web;
 
 import java.util.Date;
 
@@ -13,17 +13,17 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.aboubakar.dao.ClientRepository;
-import com.aboubakar.dao.CompteRepository;
-import com.aboubakar.entities.Client;
-import com.aboubakar.entities.Compte;
-import com.aboubakar.entities.CompteCourant;
-import com.aboubakar.entities.CompteEpargne;
-import com.aboubakar.entities.Operation;
-import com.aboubakar.metier.IBanqueMetier;
+import com.noureddine.dao.ClientRepository;
+import com.noureddine.dao.CompteRepository;
+import com.noureddine.entities.Client;
+import com.noureddine.entities.Compte;
+import com.noureddine.entities.CompteCourant;
+import com.noureddine.entities.CompteEpargne;
+import com.noureddine.entities.Operation;
+import com.noureddine.metier.IBanqueMetier;
 
 /**
- * @author Aboubakar
+ * @author Noureddine
  *
  */
 

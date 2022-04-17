@@ -1,12 +1,12 @@
-package com.aboubakar.metier;
+package com.noureddine.metier;
 
 import org.springframework.data.domain.Page;
 
-import com.aboubakar.entities.Compte;
-import com.aboubakar.entities.Operation;
+import com.noureddine.entities.Compte;
+import com.noureddine.entities.Operation;
 
 /**
- * @author Aboubakar
+ * @author Noureddine
  *
  */
 
