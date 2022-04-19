@@ -41,3 +41,5 @@ IDE : Eclipse
 Gestion des dépendences : Maven
 # Comment utiliser cette application ?
 Pour utiliser cette application, il suffit de modifier le fichier application.properties pour changer le nom de la base de donnée, le username et mettre les votres.
+# Contacter moi:
+LinkedIn : https://www.linkedin.com/in/noureddine-taher-23042b150/
