@@ -9,6 +9,7 @@ Une application web de gestion des comptes bancaires en Java/ JEE et Spring.
 # Démo
 Pour voir une démo sur l'évolution de l'application en image, visitez la page wiki : https://github.com/NoureddineTaher/GestionDesComptesBancaires/wiki
 # Spécificités fonctionnelles :
+Spécificités fonctionnelles :
 Chaque compte appaertient à un client.
 
 Un compte bancaire peut être un compte courant ou un compte epargne.
@@ -33,9 +34,7 @@ Une couche Entities où on crée nos entités (classes) que seront mappées avec
 Une couche web (présentation) où on gère tout ce qui est web (View)
 # Technologies utilisées :
 Java
-Spring Boot,
-Spring Data JPA, 
-Spring Security
+Spring Boot, Spring Data JPA, Spring Security
 View (UI) : Thymeleaf, JavaScript, Bootstrap3
 SGBD : MySQL
 # Outis de développement:
