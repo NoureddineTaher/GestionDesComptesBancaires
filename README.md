@@ -33,7 +33,9 @@ Une couche Entities où on crée nos entités (classes) que seront mappées avec
 Une couche web (présentation) où on gère tout ce qui est web (View)
 # Technologies utilisées :
 Java
-Spring Boot, Spring Data JPA, Spring Security
+Spring Boot,
+Spring Data JPA, 
+Spring Security
 View (UI) : Thymeleaf, JavaScript, Bootstrap3
 SGBD : MySQL
 # Outis de développement:
