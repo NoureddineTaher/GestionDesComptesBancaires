@@ -38,7 +38,7 @@ Spring Boot, Spring Data JPA, Spring Security
 View (UI) : Thymeleaf, JavaScript, Bootstrap3
 SGBD : MySQL
 # Outis de développement:
-IDE : Eclipse
+IDE : Eclipse.
 Gestion des dépendences : Maven
 # Comment utiliser cette application ?
 Pour utiliser cette application, il suffit de modifier le fichier application.properties pour changer le nom de la base de donnée, le username et mettre les votres.
