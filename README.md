@@ -14,13 +14,12 @@ Pour voir une démo sur l'évolution de l'application en image, visitez la page 
 * Un compte bancaire peut être un compte courant ou un compte epargne.
 
 * L'application doit permettre de :
-
-Crée un compte
-Consulter le compte d'un client
-Effectuer un versement
-Effectuer un retrait et dans ce cas le motant à retirer ne doit pas depasser le solde du compte.
-Effectuer un virement d'un compte vers un autre compte. Il faut encore verifier le montant pour le virement
-Consulter les opérations d'un compte
+`* Crée un compte`
+`* Consulter le compte d'un client`
+`* Effectuer un versement`
+`* Effectuer un retrait et dans ce cas le motant à retirer ne doit pas depasser le solde du compte.`
+`* Effectuer un virement d'un compte vers un autre compte. Il faut encore verifier le montant pour le virement`
+`* Consulter les opérations d'un compte`
 # Specificité techniques :
 Pour la consultation des opération, les opérations doivent s'afficher dans des pages. On doit utiliser la pagination, c'est à dire qu'on ne veut pas afficher toutes les opérationd sur la meme page.
 L'application doit être sécurisée. Seuls les personnes identifiées qui sont autorisées à effectuer les opérations ci-dessus mentionnées.
