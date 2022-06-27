@@ -9,12 +9,11 @@ Une application web de gestion des comptes bancaires en Java/ JEE et Spring.
 # Démo
 Pour voir une démo sur l'évolution de l'application en image, visitez la page wiki : https://github.com/NoureddineTaher/GestionDesComptesBancaires/wiki
 # Spécificités fonctionnelles :
-Spécificités fonctionnelles :
-Chaque compte appaertient à un client.
+* Chaque compte appaertient à un client.
 
-Un compte bancaire peut être un compte courant ou un compte epargne.
+* Un compte bancaire peut être un compte courant ou un compte epargne.
 
-L'application doit permettre de :
+* L'application doit permettre de :
 
 Crée un compte
 Consulter le compte d'un client
