@@ -32,7 +32,7 @@ L'application est basée sur une architecutre en couche à savoir :
 Une couche DAO pour l'accès aux données. Ici on crée les interfaces ClientRepository, CompteRepository et OperationRepository qui heritent de l'interface JpaRepository.
 Une couche Entities où on crée nos entités (classes) que seront mappées avec les tables dans la base de données 3.Une couche metier où on crée une interface IbanqueMetier qui définit les opérations ci-dessous mentionnées et une classe IbanqueMetierImpl qui implemente cette classe
 Une couche web (présentation) où on gère tout ce qui est web (View)
-# Technologies utilisées :
+#### Technologies utilisées :
 Java
 Spring Boot, Spring Data JPA, Spring Security
 View (UI) : Thymeleaf, JavaScript, Bootstrap3
