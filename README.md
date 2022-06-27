@@ -13,8 +13,9 @@ Pour voir une démo sur l'évolution de l'application en image, visitez la page 
 
 * Un compte bancaire peut être un compte courant ou un compte epargne.
 
-* ###### L'application doit permettre de :
-* Crée un compte
+* L'application doit permettre de :
+`1. Crée un compte`
+`2. Crée un compte`
 * Consulter le compte d'un client
 * Effectuer un versement
 * Effectuer un retrait et dans ce cas le motant à retirer ne doit pas depasser le solde du compte.
